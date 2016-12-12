@@ -5,10 +5,10 @@ Parsing an XML file using Go to get the list of books from the same author
 - Clone repo or download and extract ZIP to your Go workspace.
 
 ## Usage
-1. Compile program in your src
-> go install go-xml-parser/GetAllBooks
+1. Compile program in your src/
+`go install go-xml-parser/GetAllBooks`
 2. Run program in your bin/
-> ./GetAllBooks
+`./GetAllBooks`
 
 ## TODO list
 - Generalize/re-factor to use other formats and sources (JSON, CSV, HTML...)
