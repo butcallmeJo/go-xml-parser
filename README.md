@@ -11,6 +11,7 @@ Parsing an XML file using Go to get the list of books from the same author
   * `./GetAllBooks`
 
 ## TODO list
+- Implement Unit tests
 - Generalize/re-factor to use other formats and sources (JSON, CSV, HTML...)
 - Implement cmd line arguments to choose which XML to start with.
 - Implement more use cases about what information is needed and from where.
